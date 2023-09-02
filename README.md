@@ -1,4 +1,4 @@
-# Bus Ticket Booking System
+# Bus E-Ticket Booking System
 
 Welcome to the Bus Ticket Booking System repository! This project is developed using the MERN (MongoDB, Express.js, React, Node.js) stack with TypeScript for building a comprehensive online platform for booking bus tickets.
 
