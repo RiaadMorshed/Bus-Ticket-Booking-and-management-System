@@ -4,7 +4,7 @@ Welcome to the Bus Ticket Booking System repository! This project is developed u
 
 ## Project Overview
 
-The Bus Ticket Booking System aims to provide users with a convenient and user-friendly way to search for bus routes, book tickets, and manage their travel plans online.
+The Bus Ticket Booking System aims to provide users with a convenient and user-friendly way to search for bus routes, book tickets, and manage their travel plans online. Admin can book ticket on behalf of customer.
 
 ## Folder Structure
 
